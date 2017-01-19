@@ -1,0 +1,45 @@
+2016-04-18 18:53:55 INFO  ReportPDF:59 - Report creation started for PDF
+2016-04-18 18:53:55 WARN  ReportPDF:61 - No inventory records found for report yet
+2016-04-18 18:53:56 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-18 18:53:56 TRACE FileSystemFontProvider:213 - Found 329 fonts on the local system
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\WINDOWS\FONTS\times.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\WINDOWS\FONTS\timesbd.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\WINDOWS\FONTS\timesi.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\WINDOWS\FONTS\timesbi.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\WINDOWS\FONTS\arial.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\WINDOWS\FONTS\arialbd.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\WINDOWS\FONTS\ariali.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\WINDOWS\FONTS\arialbi.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\WINDOWS\FONTS\cour.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\WINDOWS\FONTS\courbd.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\WINDOWS\FONTS\couri.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\WINDOWS\FONTS\courbi.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\WINDOWS\FONTS\symbol.ttf
+2016-04-18 18:53:56 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\WINDOWS\FONTS\msgothic.ttc
+2016-04-18 18:53:56 TRACE ReportPDF:178 - Writing record 22 to report
+2016-04-18 18:53:56 INFO  ReportPDF:180 - Record 21 will cause a page break
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 58 | Boomerang | 58 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 60 | fire | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 63 | Hammer Bros Suit | 42 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 59 | Mushrooms | 100 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 3678 | Philias Bond | 89 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 179 | Rusty Part | 55 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 12345 | screw | 83 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 55 | stone wheels | 77 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 54 | Strength Magic | 80 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 53 | T-Bone | 66 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 62 | Tanooki Suit | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - 1up Productions | 61 | Thunder | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 58 | Boomerang | 70 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 60 | fire | 200 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 63 | Hammer Bros Suit | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 59 | Mushrooms | 59 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 12345 | screw | 5000 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 55 | stone wheels | 57 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 54 | Strength Magic | 55 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 53 | T-Bone | 65 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 62 | Tanooki Suit | 50 | Linear Ft.
+2016-04-18 18:53:56 INFO  ReportPDF:214 - Page 1 created
+2016-04-18 18:53:56 DEBUG ReportPDF:188 - Joe and Mac | 61 | Thunder | 50 | Linear Ft.
+2016-04-18 18:53:56 INFO  ReportPDF:285 - Page 2 created
+2016-04-18 18:53:56 INFO  ReportPDF:303 - Writing report to file

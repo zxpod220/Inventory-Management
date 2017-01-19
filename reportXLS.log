@@ -1,0 +1,52 @@
+2016-04-18 18:53:56 INFO  ReportExcel:58 - Report creation started for PDF
+2016-04-18 18:53:56 WARN  ReportExcel:60 - No inventory records found for report yet
+2016-04-18 18:53:56 TRACE ReportExcel:82 - Writing record 22 to report
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 58 | Boomerang | 58 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 60 | fire | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 63 | Hammer Bros Suit | 42 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 59 | Mushrooms | 100 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 3678 | Philias Bond | 89 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 179 | Rusty Part | 55 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 12345 | screw | 83 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 55 | stone wheels | 77 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 54 | Strength Magic | 80 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 53 | T-Bone | 66 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 62 | Tanooki Suit | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - 1up Productions | 61 | Thunder | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 58 | Boomerang | 70 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 60 | fire | 200 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 63 | Hammer Bros Suit | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 59 | Mushrooms | 59 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 12345 | screw | 5000 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 55 | stone wheels | 57 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 54 | Strength Magic | 55 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 53 | T-Bone | 65 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 62 | Tanooki Suit | 50 | Linear Ft.
+2016-04-18 18:53:56 DEBUG ReportExcel:87 - Joe and Mac | 61 | Thunder | 50 | Linear Ft.
+2016-04-18 18:53:56 INFO  ReportExcel:105 - Writing report to file
+2016-04-18 18:54:33 INFO  ReportExcel:58 - Report creation started for PDF
+2016-04-18 18:54:33 WARN  ReportExcel:60 - No inventory records found for report yet
+2016-04-18 18:54:33 TRACE ReportExcel:82 - Writing record 22 to report
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 58 | Boomerang | 58 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 60 | fire | 50 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 63 | Hammer Bros Suit | 42 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 59 | Mushrooms | 100 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 3678 | Philias Bond | 89 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 179 | Rusty Part | 55 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 12345 | screw | 83 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 55 | stone wheels | 77 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 54 | Strength Magic | 80 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 53 | T-Bone | 66 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 62 | Tanooki Suit | 50 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - 1up Productions | 61 | Thunder | 50 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 58 | Boomerang | 70 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 60 | fire | 200 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 63 | Hammer Bros Suit | 50 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 59 | Mushrooms | 59 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 12345 | screw | 5000 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 55 | stone wheels | 57 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 54 | Strength Magic | 55 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 53 | T-Bone | 65 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 62 | Tanooki Suit | 50 | Linear Ft.
+2016-04-18 18:54:33 DEBUG ReportExcel:87 - Joe and Mac | 61 | Thunder | 50 | Linear Ft.
+2016-04-18 18:54:33 INFO  ReportExcel:105 - Writing report to file
